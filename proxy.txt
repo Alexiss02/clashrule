@@ -1,1 +1,13 @@
-
+payload:
+  #pt
+  - DOMAIN-KEYWORD,keepfrds
+  - DOMAIN-KEYWORD,fearnopeer
+  - DOMAIN-KEYWORD,discord
+  - DOMAIN-KEYWORD,vercel
+  - DOMAIN-KEYWORD,nodeseek
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,metacubex
+  - DOMAIN-KEYWORD,hysteria
+  - DOMAIN-KEYWORD,v2ex
+  - GEOSITE,github
+  - GEOSITE,google
