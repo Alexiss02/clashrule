@@ -8,5 +8,6 @@ payload:
   - DOMAIN-KEYWORD,metacubex
   - DOMAIN-KEYWORD,hysteria
   - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,lowendtalk
   - GEOSITE,github
   - GEOSITE,google
