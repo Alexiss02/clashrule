@@ -1,5 +1,4 @@
 payload:
-1
   - DOMAIN-KEYWORD,keepfrds
   - DOMAIN-KEYWORD,fearnopeer
   - DOMAIN-KEYWORD,discord
