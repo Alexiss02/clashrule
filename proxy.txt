@@ -3,6 +3,8 @@ payload:
   - DOMAIN-KEYWORD,keepfrds
   - DOMAIN-KEYWORD,fearnopeer
   - DOMAIN-KEYWORD,ptsbao
+  - DOMAIN-KEYWORD,privatehd
+  - DOMAIN-KEYWORD,avistaz
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,vercel
   - DOMAIN-KEYWORD,nodeseek
