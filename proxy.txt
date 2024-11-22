@@ -14,5 +14,6 @@ payload:
   - DOMAIN-KEYWORD,hysteria
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,lowendtalk
+  - DOMAIN-KEYWORD,sing-box
   - GEOSITE,github
   - GEOSITE,google
