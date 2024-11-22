@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,ptsbao
   - DOMAIN-KEYWORD,privatehd
   - DOMAIN-KEYWORD,avistaz
+  - DOMAIN-KEYWORD,fappaizuri
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,vercel
   - DOMAIN-KEYWORD,nodeseek
