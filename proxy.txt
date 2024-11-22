@@ -15,5 +15,6 @@ payload:
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,lowendtalk
   - DOMAIN-KEYWORD,sing-box
+  - DOMAIN-KEYWORD,python
   - GEOSITE,github
   - GEOSITE,google
