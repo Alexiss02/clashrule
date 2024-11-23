@@ -15,7 +15,6 @@ payload:
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,lowendtalk
   - DOMAIN-KEYWORD,sing-box
-  - DOMAIN-KEYWORD,metacubex
   - DOMAIN-KEYWORD,python
   - DOMAIN-KEYWORD,buycoffee
   - DOMAIN-KEYWORD,ping0
