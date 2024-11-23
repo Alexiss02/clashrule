@@ -17,5 +17,6 @@ payload:
   - DOMAIN-KEYWORD,sing-box
   - DOMAIN-KEYWORD,python
   - DOMAIN-KEYWORD,buycoffee
+  - DOMAIN-KEYWORD,ping0
   - GEOSITE,github
   - GEOSITE,google
