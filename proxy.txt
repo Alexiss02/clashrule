@@ -17,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,lowendtalk
   - DOMAIN-KEYWORD,sing-box
   - DOMAIN-KEYWORD,python
+  - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,buycoffee
   - DOMAIN-KEYWORD,ping0
   - DOMAIN-KEYWORD,unogs
