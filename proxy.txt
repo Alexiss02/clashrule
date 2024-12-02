@@ -24,3 +24,4 @@ payload:
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
+  - DOMAIN-SUFFIX,fast.com
