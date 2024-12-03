@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,buycoffee
   - DOMAIN-KEYWORD,ping0
   - DOMAIN-KEYWORD,unogs
+  - DOMAIN-KEYWORD,cdm-project
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
