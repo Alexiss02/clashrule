@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD,ping0
   - DOMAIN-KEYWORD,unogs
   - DOMAIN-KEYWORD,cdm-project
+  - DOMAIN-KEYWORD,tubi
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
