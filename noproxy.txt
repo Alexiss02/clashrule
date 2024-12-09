@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,passthepopcorn
   - DOMAIN-KEYWORD,omgwtfnzbs
   - DOMAIN-KEYWORD,karagarga
+  - DOMAIN-SUFFIX,nzbs.moe
