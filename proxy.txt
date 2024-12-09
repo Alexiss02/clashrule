@@ -28,4 +28,3 @@ payload:
   - PROCESS-NAME,WinStore.App.exe
   - DOMAIN-SUFFIX,fast.com
   - IP-CIDR,83.147.240.203/32
-1
