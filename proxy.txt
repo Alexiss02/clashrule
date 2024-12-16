@@ -25,6 +25,7 @@ payload:
   - DOMAIN-KEYWORD,tubi
   - DOMAIN-KEYWORD,serv00
   - DOMAIN-KEYWORD,predb
+  - DOMAIN-KEYWORD,fmhy
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
