@@ -26,6 +26,7 @@ payload:
   - DOMAIN-KEYWORD,serv00
   - DOMAIN-KEYWORD,predb
   - DOMAIN-KEYWORD,fmhy
+  - DOMAIN,autoupdate.termius.com
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
