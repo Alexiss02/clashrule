@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,privatehd
   - DOMAIN-KEYWORD,avistaz
   - DOMAIN-KEYWORD,fappaizuri
+  - DOMAIN-KEYWORD,pornbay
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,vercel
   - DOMAIN-KEYWORD,nodeseek
@@ -34,3 +35,4 @@ payload:
   - IP-CIDR,83.147.240.203/32
   - IP-CIDR,5.252.225.207/32
   - IP-CIDR,216.219.86.169/32
+  - IP-CIDR,31.59.98.64/32
