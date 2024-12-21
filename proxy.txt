@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,avistaz
   - DOMAIN-KEYWORD,fappaizuri
   - DOMAIN-KEYWORD,pornbay
+  - DOMAIN-KEYWORD,iptorrents
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,vercel
   - DOMAIN-KEYWORD,nodeseek
