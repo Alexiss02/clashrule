@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,predb
   - DOMAIN-KEYWORD,fmhy
   - DOMAIN-KEYWORD,swizzin
+  - DOMAIN-KEYWORD,wpfx
   - DOMAIN,autoupdate.termius.com
   - GEOSITE,github
   - GEOSITE,google
