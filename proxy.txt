@@ -30,6 +30,7 @@ payload:
   - DOMAIN-KEYWORD,fmhy
   - DOMAIN-KEYWORD,swizzin
   - DOMAIN-KEYWORD,wpfx
+  - DOMAIN-KEYWORD,audiences
   - DOMAIN,autoupdate.termius.com
   - GEOSITE,github
   - GEOSITE,google
