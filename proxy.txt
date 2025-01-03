@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,pornbay
   - DOMAIN-KEYWORD,iptorrents
   - DOMAIN-KEYWORD,hawke
+  - DOMAIN-KEYWORD,scenehd
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,vercel
   - DOMAIN-KEYWORD,nodeseek
