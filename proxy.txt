@@ -34,6 +34,7 @@ payload:
   - DOMAIN-KEYWORD,wpfx
   - DOMAIN-KEYWORD,audiences
   - DOMAIN,autoupdate.termius.com
+  - DOMAIN,v2ray-agent
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
