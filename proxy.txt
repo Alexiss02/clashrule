@@ -34,6 +34,7 @@ payload:
   - DOMAIN-KEYWORD,wpfx
   - DOMAIN-KEYWORD,audiences
   - DOMAIN-KEYWORD,v2ray
+  - DOMAIN-KEYWORD,steampowered
   - DOMAIN,autoupdate.termius.com
   - GEOSITE,github
   - GEOSITE,google
