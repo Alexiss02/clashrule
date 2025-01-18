@@ -36,6 +36,7 @@ payload:
   - DOMAIN-KEYWORD,v2ray
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,steampowered
+  - DOMAIN-KEYWORD,imgbb
   - DOMAIN,autoupdate.termius.com
   - GEOSITE,github
   - GEOSITE,google
