@@ -3,4 +3,6 @@ payload:
   - DOMAIN-KEYWORD,omgwtfnzbs
   - DOMAIN-KEYWORD,karagarga
   - DOMAIN-KEYWORD,redacted
+  - DOMAIN-KEYWORD,springsunday
   - DOMAIN-SUFFIX,nzbs.moe
+
