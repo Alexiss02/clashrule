@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,ptpimg
+  - DOMAIN-KEYWORD,ubits
   - DOMAIN-KEYWORD,keepfrds
   - DOMAIN-KEYWORD,pterclub
   - DOMAIN-KEYWORD,fearnopeer
