@@ -4,5 +4,6 @@ payload:
   - DOMAIN-KEYWORD,karagarga
   - DOMAIN-KEYWORD,redacted
   - DOMAIN-KEYWORD,springsunday
+  - DOMAIN-KEYWORD,nzbs
   - DOMAIN-SUFFIX,nzbs.moe
 
