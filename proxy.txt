@@ -41,7 +41,7 @@ payload:
   - DOMAIN-KEYWORD,tomorrow505
   - DOMAIN-KEYWORD,kktv
   - DOMAIN,autoupdate.termius.com
-  - DOMAIN,cloud1.imges.link
+  - DOMAIN,ctldl.windowsupdate.com
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
