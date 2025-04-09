@@ -41,6 +41,7 @@ payload:
   - DOMAIN-KEYWORD,tomorrow505
   - DOMAIN-KEYWORD,kktv
   - DOMAIN-KEYWORD,torrentleech
+  - DOMAIN-KEYWORD,data.microsoft.com
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,ctldl.windowsupdate.com
   - GEOSITE,github
