@@ -43,7 +43,6 @@ payload:
   - DOMAIN-KEYWORD,torrentleech
   - DOMAIN-KEYWORD,data.microsoft.com
   - DOMAIN,autoupdate.termius.com
-  - DOMAIN,ctldl.windowsupdate.com
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
