@@ -42,6 +42,7 @@ payload:
   - DOMAIN-KEYWORD,kktv
   - DOMAIN-KEYWORD,torrentleech
   - DOMAIN,autoupdate.termius.com
+  - DOMAIN,cctv10.cc
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
