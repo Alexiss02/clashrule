@@ -5,5 +5,6 @@ payload:
   - DOMAIN-KEYWORD,redacted
   - DOMAIN-KEYWORD,springsunday
   - DOMAIN-KEYWORD,nzbs
+  - DOMAIN-KEYWORD,binance
   - DOMAIN-SUFFIX,nzbs.moe
 
