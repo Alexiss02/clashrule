@@ -42,6 +42,7 @@ payload:
   - DOMAIN-KEYWORD,kktv
   - DOMAIN-KEYWORD,69shu
   - DOMAIN-KEYWORD,torrentleech
+  - DOMAIN-KEYWORD,zztt15
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
