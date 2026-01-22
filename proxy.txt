@@ -43,6 +43,8 @@ payload:
   - DOMAIN-KEYWORD,69shu
   - DOMAIN-KEYWORD,torrentleech
   - DOMAIN-KEYWORD,heiliao88
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,trumpyun
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
