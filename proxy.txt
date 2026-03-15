@@ -45,7 +45,6 @@ payload:
   - DOMAIN-KEYWORD,heiliao88
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,trumpyun
-  - DOMAIN-KEYWORD,shrtxs
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
