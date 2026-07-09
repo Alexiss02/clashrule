@@ -46,6 +46,7 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,trumpyun
   - DOMAIN-KEYWORD,hdhive
+  - DOMAIN-KEYWORD,anyrouter
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
