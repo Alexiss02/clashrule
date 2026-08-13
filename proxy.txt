@@ -48,6 +48,7 @@ payload:
   - DOMAIN-KEYWORD,hdhive
   - DOMAIN-KEYWORD,anyrouter
   - DOMAIN-KEYWORD,agentrouter
+  - DOMAIN-KEYWORD,hnxianxin
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
