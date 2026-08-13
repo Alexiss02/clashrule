@@ -47,6 +47,7 @@ payload:
   - DOMAIN-KEYWORD,trumpyun
   - DOMAIN-KEYWORD,hdhive
   - DOMAIN-KEYWORD,anyrouter
+  - DOMAIN-KEYWORD,agentrouter
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
