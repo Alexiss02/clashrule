@@ -49,6 +49,7 @@ payload:
   - DOMAIN-KEYWORD,anyrouter
   - DOMAIN-KEYWORD,agentrouter
   - DOMAIN-KEYWORD,hnxianxin
+  - DOMAIN-KEYWORD,gateai
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
