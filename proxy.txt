@@ -50,6 +50,7 @@ payload:
   - DOMAIN-KEYWORD,agentrouter
   - DOMAIN-KEYWORD,hnxianxin
   - DOMAIN-KEYWORD,gateai
+  - DOMAIN-KEYWORD,nvtokens
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
