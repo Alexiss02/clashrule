@@ -52,6 +52,7 @@ payload:
   - DOMAIN-KEYWORD,gateai
   - DOMAIN-KEYWORD,nvtokens
   - DOMAIN-KEYWORD,snow-plus
+  - DOMAIN-KEYWORD,api-gateway
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
