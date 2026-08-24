@@ -55,6 +55,7 @@ payload:
   - DOMAIN-KEYWORD,api-gateway
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
+  - DOMAIN,gateway.merge.dev
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
