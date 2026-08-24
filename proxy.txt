@@ -52,14 +52,13 @@ payload:
   - DOMAIN-KEYWORD,gateai
   - DOMAIN-KEYWORD,nvtokens
   - DOMAIN-KEYWORD,snow-plus
-  - DOMAIN-KEYWORD,api-gateway
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
-  - DOMAIN,gateway.merge.dev
   - GEOSITE,github
   - GEOSITE,google
   - PROCESS-NAME,WinStore.App.exe
   - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,merge.dev
   - IP-CIDR,83.147.240.203/32
   - IP-CIDR,5.252.225.207/32
   - IP-CIDR,216.219.86.169/32
