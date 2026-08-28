@@ -53,6 +53,7 @@ payload:
   - DOMAIN-KEYWORD,nvtokens
   - DOMAIN-KEYWORD,snow-plus
   - DOMAIN-KEYWORD,codexradar
+  - DOMAIN-SUFFIX,justwoker.icu
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
