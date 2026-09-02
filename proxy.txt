@@ -55,6 +55,7 @@ payload:
   - DOMAIN-KEYWORD,codexradar
   - DOMAIN-KEYWORD,plati
   - DOMAIN-SUFFIX,justwoker.icu
+  - DOMAIN-SUFFIX,linux.sb
   - DOMAIN,autoupdate.termius.com
   - DOMAIN,cctv10.cc
   - GEOSITE,github
