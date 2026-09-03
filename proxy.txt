@@ -63,6 +63,8 @@ payload:
   - PROCESS-NAME,WinStore.App.exe
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,merge.dev
+  - DOMAIN-SUFFIX,gorouter.app
+  - DOMAIN-SUFFIX,tabitoken.com
   - IP-CIDR,83.147.240.203/32
   - IP-CIDR,5.252.225.207/32
   - IP-CIDR,216.219.86.169/32
