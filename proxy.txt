@@ -72,3 +72,4 @@ payload:
   - IP-CIDR,94.159.110.167/32
   - DOMAIN-SUFFIX,kktoken.cc
   - DOMAIN-SUFFIX,kedaya.ai
+  - DOMAIN-SUFFIX,tokenharbor.ai
