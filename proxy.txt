@@ -74,3 +74,4 @@ payload:
   - DOMAIN-SUFFIX,kedaya.ai
   - DOMAIN-SUFFIX,tokenharbor.ai
   - DOMAIN-SUFFIX,cun.ai
+  - DOMAIN-SUFFIX,711proxy.com
