@@ -75,3 +75,4 @@ payload:
   - DOMAIN-SUFFIX,tokenharbor.ai
   - DOMAIN-SUFFIX,cun.ai
   - DOMAIN-SUFFIX,711proxy.com
+  - DOMAIN-SUFFIX,memoh.ai
