@@ -77,3 +77,4 @@ payload:
   - DOMAIN-SUFFIX,711proxy.com
   - DOMAIN-SUFFIX,memoh.ai
   - DOMAIN-SUFFIX,codebuddy.ai
+  - DOMAIN-SUFFIX,workbuddy.ai
