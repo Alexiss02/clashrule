@@ -79,3 +79,4 @@ payload:
   - DOMAIN-SUFFIX,memoh.net
   - DOMAIN-SUFFIX,codebuddy.ai
   - DOMAIN-SUFFIX,workbuddy.ai
+  - DOMAIN-SUFFIX,windhub.cc
