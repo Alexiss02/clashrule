@@ -85,4 +85,15 @@ payload:
   - DOMAIN-SUFFIX,wandb.ai
   - DOMAIN-SUFFIX,xn--9kqz23b19z.com
   - DOMAIN-SUFFIX,waikeung.net
+  - DOMAIN-SUFFIX,pikpak.com
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,pikpak.net
+  - DOMAIN-SUFFIX,mypikpak.net
+  - DOMAIN-SUFFIX,pikpakdrive.com
+  - DOMAIN-SUFFIX,pikpakdrive.net
+  - DOMAIN-SUFFIX,pikpakusercontent.com
+  - DOMAIN-SUFFIX,pikpakapi.com
+  - DOMAIN-SUFFIX,pikpak.tv
+  - DOMAIN-SUFFIX,pikpak.cn
+  - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,posthog
