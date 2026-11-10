@@ -96,4 +96,6 @@ payload:
   - DOMAIN-SUFFIX,pikpak.tv
   - DOMAIN-SUFFIX,pikpak.cn
   - DOMAIN-KEYWORD,pikpak
+  - DOMAIN-SUFFIX,experientiallabs.ai
+  - DOMAIN-SUFFIX,refuseless.com
   - DOMAIN-KEYWORD,posthog
