@@ -98,4 +98,6 @@ payload:
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-SUFFIX,experientiallabs.ai
   - DOMAIN-SUFFIX,refuseless.com
+  - DOMAIN-SUFFIX,closerouter.dev
+  - DOMAIN-SUFFIX,sailresearch.com
   - DOMAIN-KEYWORD,posthog
