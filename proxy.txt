@@ -100,4 +100,5 @@ payload:
   - DOMAIN-SUFFIX,refuseless.com
   - DOMAIN-SUFFIX,closerouter.dev
   - DOMAIN-SUFFIX,sailresearch.com
+  - DOMAIN-SUFFIX,zzzcoding.org
   - DOMAIN-KEYWORD,posthog
